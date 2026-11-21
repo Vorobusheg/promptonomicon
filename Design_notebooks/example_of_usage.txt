@@ -1,0 +1,7 @@
+Read @Claude/Design_notebooks/Sisyphus_style/README.md and follow it.
+Task: make Projects/GKP_cavity/notebooks/Sisyphus_B.ipynb from Sisyphus_A.ipynb with the
+readout resonator at 7.9 GHz and chi/2pi of 1 MHz. Coarse runs only.
+
+Use Claude/Design_notebooks/Sisyphus_style (start at README.md; the relevant skill is
+skills/hfss-bbq-coupling). Task: re-run the qubit BBQ block of Sisyphus_B and tell me g
+to the storage.
